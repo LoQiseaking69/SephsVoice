@@ -40,10 +40,10 @@ The application is designed to provide an interactive AI experience with voice i
 Run `main.py` to start the application. Ensure all dependencies are installed and JSON files are correctly configured with the necessary data.
 
 ## License
-[Specify the license here]
+GNU Affero General Public License v3.0
 
 ## Contributors
-[List of contributors]
+just me right now...
 
 ---
 
