@@ -6,7 +6,7 @@ import re
 import logging
 
 class AIModel:
-    def __init__(self, model_name='gpt-2', user_profiles_path='user_profiles.json'):
+    def __init__(self, model_name='gpt-4', user_profiles_path='user_profiles.json'):
         self.initialize_model(model_name)
         self.user_profiles_path = user_profiles_path
         self.user_profiles = self.load_user_profiles()
