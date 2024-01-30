@@ -44,7 +44,4 @@ Run `main.py` to start the application. Ensure all dependencies are installed an
 ## License
 GNU Affero General Public License v3.0
 
-## Contributors
-- just me right now...
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
